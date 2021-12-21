@@ -1,3 +1,4 @@
 https://www.glfw.org/
 https://sourceforge.net/projects/glew/files/glew/2.1.0/
 http://glew.sourceforge.net/
+https://graphics.pixar.com/usd/release/index.html
